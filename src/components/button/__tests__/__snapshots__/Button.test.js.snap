@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests for Button component snapshot button component 1`] = `
+<DocumentFragment>
+  <div
+    class="button"
+  >
+    <button
+      data-testid="BUTTON_ID"
+      style="padding: 5px; border-radius: 16px;"
+    >
+      Click Me!
+    </button>
+  </div>
+</DocumentFragment>
+`;

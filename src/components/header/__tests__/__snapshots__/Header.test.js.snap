@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests for Header component snapshot header component 1`] = `
+<DocumentFragment>
+  <div
+    class="Header"
+    style="margin-bottom: 40px;"
+  >
+    This is just for the sake of the test
+  </div>
+</DocumentFragment>
+`;
